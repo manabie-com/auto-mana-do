@@ -23,10 +23,10 @@ Write test cases for:
   - Remove all TODO
 
 ### How to run this code
-- Run ```yarn``` or ```npm install``` if this is the first time you clone this repo (`master` branch).
+- Run ```yarn``` if this is the first time you clone this repo (`master` branch).
 
 - Make sure that the development server is running on http://localhost:3000
-  - You can do this by running `npm run start`
+  - You can do this by running `yarn start`
 
 - Once the application is running you can then start cypress with commands below:
   - `yarn run cy:headless` - this will run features in Electron headlessly i.e., in command line only.
