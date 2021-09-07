@@ -17,11 +17,13 @@
 - If you don't know cypress, setup any test framework as will
     
 ### Requirements
-Write test cases for:
+
+- Write test cases for:
   - Create a new TODO item
   - Edit existing TODO
   - Remove TODO
   - Remove all TODO
+- Setup automate run your test cases on CI/CD with Github Actions.
 
 ### How to run this code
 - Run ```yarn``` if this is the first time you clone this repo (`master` branch).
