@@ -23,7 +23,7 @@
   - Edit existing TODO
   - Remove TODO
   - Remove all TODO
-- Setup automate run your test cases on CI/CD with Github Actions.
+- Setup automate run your test cases on CI/CD with Github Actions or any others public CI/CD service as long as we can review.
 
 ### How to run this code
 - Run ```yarn``` if this is the first time you clone this repo (`master` branch).
